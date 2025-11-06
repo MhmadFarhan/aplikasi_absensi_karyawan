@@ -1,0 +1,10 @@
+username admin
+username : admin
+password : 123
+
+username karyawan
+username : karyawan
+password : 123
+
+cara menjalankan aplikasi menggunakan command pada terminal :
+php -S localhost:8080 -t public
